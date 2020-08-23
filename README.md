@@ -1,1 +1,1 @@
-Generating ERC tokens using Openzeppelin's libraries. 
+Generating ERC tokens using Openzeppelin's libraries, in solidity. 
