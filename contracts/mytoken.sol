@@ -6,9 +6,5 @@ contract DappToken {
     string  public symbol = "DAPP";
     
 
-    event Transfer(
-        address indexed _from,
-        address indexed _to,
-        uint256 _value
-    );
 
+}
